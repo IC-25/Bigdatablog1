@@ -39,9 +39,9 @@ body {
 
 .logo-container {
   display: grid;
-  grid-template-columns: 20% 20%;
+  grid-template-columns: 30% 20%;
   height: 10px;
- margin-top: 15px;
+  margin-top: 15px;
 }
 
 .logo {

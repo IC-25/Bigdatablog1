@@ -22,7 +22,7 @@ const Navbar = () => {
         <div className="container">
           <div className="logo-container">
             <div className="logo">
-              <h2>I~cent</h2>
+              <h2>I~cent's M-blog </h2>
             </div>
             {/* <div className="title">
               <h3>THE ULTIMATE PHOTOGRAPHER</h3>
